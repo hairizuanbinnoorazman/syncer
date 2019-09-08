@@ -13,3 +13,6 @@ jinja2 = "*"
 
 [requires]
 python_version = "3.7"
+
+[scripts]
+sync = "python sync.py"
